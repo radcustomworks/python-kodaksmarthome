@@ -13,11 +13,11 @@ DEVICE_EVENT_BATTERY = 7
 # REGION_URLS
 SUPPORTED_REGIONS = {
     "EU": {
-        "URL": "https://app-eu.kodaksmarthome.com/web",
-        "URL_TOKEN": "https://api-t01-r3.perimetersafe.com/v1/oauth/token",
-        "URL_AUTH": "https://app-eu.kodaksmarthome.com/web/authenticate",
-        "URL_DEVICES": "https://app-eu.kodaksmarthome.com/web/user/device",
-        "URL_LOGOUT": "https://app-eu.kodaksmarthome.com/web/#/user/logout",
+        "URL": "https://app-r1.kodaksmarthome.com/web",
+        "URL_TOKEN": "https://api-t01-r1.perimetersafe.com/v1/oauth/token",
+        "URL_AUTH": "https://app-r1.kodaksmarthome.com/web/authenticate",
+        "URL_DEVICES": "https://app-r1.kodaksmarthome.com/web/user/device",
+        "URL_LOGOUT": "https://app-r1.kodaksmarthome.com/web/#/user/logout",
     },
     "US": {
         "URL": "https://app-us.kodaksmarthome.com/web",
